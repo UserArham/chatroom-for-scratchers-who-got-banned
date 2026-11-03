@@ -1,0 +1,1749 @@
+function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function kde-plasma-header-1
+function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}function convertToCelsius(fahrenheit) {
+  const celsius = (fahrenheit - 32) * 5 / 9;
+  return celsius;
+}
+}function 
